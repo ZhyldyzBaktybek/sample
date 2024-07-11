@@ -1,0 +1,32 @@
+p {
+    font-style: normal;
+    color: purple;
+
+}
+
+h1 {
+    color: black;
+    padding-top: 18px;
+}
+
+#p {
+    background-color: beige;
+}
+
+.h2 {
+    font-size: 20px;
+    text-align: center;
+    font-family: Montserrat, Helvetica;
+}
+
+.endingMessage {
+    text-align: center;
+    font-family: Bubbly;
+    font-size: 20px;
+    color: darkorchid;
+    margin-bottom: 18px;
+}
+
+p.endingMessage {
+    padding-bottom: 20px;
+}
